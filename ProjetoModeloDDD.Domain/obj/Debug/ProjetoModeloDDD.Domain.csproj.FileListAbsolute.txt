@@ -4,3 +4,9 @@ C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\Pro
 C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
 C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
 C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb

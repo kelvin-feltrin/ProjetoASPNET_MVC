@@ -12,3 +12,17 @@ C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug
 C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
 C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
 C:\Users\kelvin\Downloads\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\Kelvin\Desktop\ProjetoASPNET_MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
