@@ -1,5 +1,7 @@
 # Projeto Sistema de Vendas
 
+* Read in [English](https://github.com/kelvin-feltrin/ProjetoASPNET_MVC/blob/main/README.md)
+
 ## Sobre o projeto
 O projeto "Sistema de Vendas" foi desenvolvido para aplicar na prática o desenvolvimento de uma aplicação que usa uma arquitetura mais robusta, utilizada em sistemas corporativos. 
 
